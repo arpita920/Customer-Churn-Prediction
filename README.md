@@ -6,7 +6,7 @@ Predicting customer churn for a California telecom provider using classification
 
 **Try the deployed application here:**
 
-🚀 **[Launch the App](https://customer-churn-prediction-ufjxhbbt8ihbdde986vfuy.streamlit.app)**
+🚀 **[Launch the App](https://customer-churn-prediction-ufjxhbtt8ihbdde986vfuy.streamlit.app/)**
 
 No installation required — open the link and start exploring the dashboard.
 
