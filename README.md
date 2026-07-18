@@ -2,6 +2,14 @@
 
 Predicting customer churn for a California telecom provider using classification models, custom business-cost optimization, and an interactive Streamlit app.
 
+## 🔗 Live Demo
+
+**Try the deployed application here:**
+
+🚀 **[Launch the App](https://customer-churn-prediction-ufjxhbbt8ihbdde986vfuy.streamlit.app)**
+
+No installation required — open the link and start exploring the dashboard.
+
 ## Business Problem
 
 Telecom companies lose significantly more money failing to catch a customer who *will* churn than they lose by flagging a customer who *won't* (retention offers are cheap; lost customers are expensive). This project builds a churn prediction model that is optimized for that real cost asymmetry — not just for accuracy.
