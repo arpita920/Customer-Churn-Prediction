@@ -76,7 +76,7 @@ Users can enter customer information and generate a live churn prediction.
 
 Displays churn probability, risk level, business impact, and recommended actions.
 
-![Prediction Results](screenshots/prediction_results.png)
+![Prediction Results](screenshots/prediction_result.png)
 
 ---
 
@@ -92,7 +92,7 @@ Explains which historical business patterns apply to the selected customer profi
 
 Summarizes model selection, performance metrics, threshold optimization, and cross-validation results.
 
-![Model Information](screenshots/model_information.png)
+![Model Information](screenshots/model_info.png)
 
 ## Key EDA Findings
 
