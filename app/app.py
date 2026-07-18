@@ -50,7 +50,7 @@ high_churn_cities = load_high_churn_cities()
 # Load dataset for EDA charts
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"C:\Users\Arpita\Desktop\Customer Churn Prediction\data\processed\churned_or_stayed_df.csv")
+    return pd.read_csv("data/processed/churned_or_stayed_df.csv")
 
 df = load_data()
 
